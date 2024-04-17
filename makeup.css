@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.startScreen{
+position: absolute;
+top: 1vh;
+text-align: center;
+padding: 50px;
+font-size: 3em;
+}
+
+.button{
+    font-size: 8vh;
+    background-color: green;
+    color: white;
+    border-color: white;
+}
+
+.input{
+font-size: 2vh;
+}
